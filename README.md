@@ -11,3 +11,5 @@ Descrição de Perfil:
 🌐 Além de sua habilidade técnica, Ryan é reconhecido por sua mentalidade curiosa e criativa. Ele está constantemente envolvido em projetos pessoais e desafios de codificação, demonstrando uma abordagem prática para consolidar e aplicar o que aprende.
 
 🔧 Sempre antenado com as últimas tendências do setor, Ryan Riquelme representa a próxima geração de desenvolvedores que contribuirão de forma significativa para a inovação tecnológica. Sua determinação e paixão pela programação prometem um futuro brilhante e promissor no campo da tecnologia.
+
+🛠️ Stacks: HTML, CSS, Bootstrap, Python, JavaScript.
